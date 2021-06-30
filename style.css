@@ -1,0 +1,65 @@
+body
+{
+	padding: 0px;
+	margin: 0px;
+    overflow-x: hidden;
+}
+
+body:focus { 
+    outline: none;
+  }
+
+#navigation h1
+{
+    background-color: red;
+    color: white;
+    margin: 0px;
+    padding: 50px;
+}
+
+.navigationMenu li
+{
+    list-style: none;
+    float: left;
+    margin-right: 0px;
+    border: 1px solid white;
+    padding: 50px;
+    background-color: blueviolet;
+    margin-top: 20px;
+}
+
+
+.navigationMenu li a
+{
+    color: white;
+
+}
+
+
+.about .company-about
+{
+    margin-top: 20px;
+}
+
+
+.aboutContent
+{
+    margin-top: 50px;
+}
+ 
+
+.WhatWeDo-Desc
+{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 150px;
+    margin-top: 80px;
+}
+
+
+#whatWeDo h1
+{
+    text-align: center; 
+    margin-top: 50px;  
+}
+
